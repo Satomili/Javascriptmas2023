@@ -1,0 +1,31 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif; 
+    padding: 2em 0;
+    background-image: url("https://media.giphy.com/media/7o5WZRX4Uu21lshEqd/giphy.gif");
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+    margin-bottom: .6em;
+    text-align: center;
+}
+
+.container {
+    background: rgba(35, 133, 109, 0.8);
+    display: flex;
+    justify-content: center;
+}
+
+#container-pairs {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    padding: 1em;
+}
